@@ -1,2 +1,0 @@
-# gameOfLife
-Created with CodeSandbox
